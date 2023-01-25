@@ -6,7 +6,7 @@
 )](https://api.whatsapp.com/send?phone=5548991947567&text=Ol%C3%A1%20Everson%20Neves)
 
 
-![https://github.com/Everson-99/EversonNeves GitHub stats](https://github-readme-stats.vercel.app/api?username=Everson&show_icons=true&theme=radical)
+![https://github.com/Everson-99/EversonNeves GitHub stats](https://github.com/Everson-99/EversonNeves)
 
 ## Tecnologia que eu uso no meu dia a dia
 
